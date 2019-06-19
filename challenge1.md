@@ -1,3 +1,3 @@
 ## Here is your first Python Challenge
 
-[Challenge Instructions](pythonimport.doc)
+[Challenge Instructions](metric_conversion_worksheet.doc)
